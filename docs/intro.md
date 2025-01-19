@@ -3,9 +3,20 @@ sidebar_position: 1
 slug: /
 ---
 
-# Bienvenido a la Documentación
+# ☑ Bienvenido a la Documentación
 
 Esta es una guía completa sobre los diferentes frameworks y herramientas de desarrollo web moderno.
+
+## Contenedores
+
+Información general sobre los contenedores de desarrollo.
+[Leer más sobre Contenedores →](/contenedores/campos)
+
+## Plantillas
+
+Información general sobre las plantillas de desarrollo.
+[Leer más sobre Plantillas →](/plantillas/campos)
+
 
 ## Frameworks Disponibles
 
