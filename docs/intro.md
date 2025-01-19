@@ -15,7 +15,7 @@ Información general sobre los contenedores de desarrollo.
 ## Plantillas
 
 Información general sobre las plantillas de desarrollo.
-[Leer más sobre Plantillas →](/plantillas/campos)
+[Leer más sobre Plantillas →](/plantilla/campos)
 
 
 ## Frameworks Disponibles

@@ -21,19 +21,20 @@ const sidebars = {
       type: 'category',
       label: 'Contenedores',
       items: [
-        'contenedores/campos'
+        'contenedores/campos',
+        'contenedores/logs'
       ]
     },
     {
       type: 'category', 
-      label: 'Plantillas',
+      label: 'Plantillas de Contenedores',
       items: [
         'plantilla/campos'
       ]
     },
     {
       type: 'category',
-      label: 'Frameworks',
+      label: 'Tipos de Proyectos (Frameworks)',
       items: [
         {
           type: 'doc',

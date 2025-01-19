@@ -61,7 +61,7 @@ const config = {
         title: 'Documentación',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
