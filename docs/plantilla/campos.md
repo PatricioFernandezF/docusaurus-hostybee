@@ -35,3 +35,5 @@ Cada plantilla muestra:
 
    - Al pulsar el botón **Desplegar**, se crea automáticamente un contenedor basado en la plantilla seleccionada.
    - El contenedor utiliza las configuraciones predefinidas de la plantilla para iniciar rápidamente el entorno.
+
+![plantilla](/img/plantillas.jpg)

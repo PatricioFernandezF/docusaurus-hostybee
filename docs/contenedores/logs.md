@@ -1,4 +1,9 @@
-#  🖥 Logs de los Contenedores
+---
+sidebar_position: 2
+title: 📝 Logs de Contenedores
+---
+
+# 📝 Logs de Contenedores
 
 El historial de despliegues y los logs de los contenedores proporcionan información detallada sobre las acciones realizadas, los estados alcanzados y cualquier problema ocurrido durante las operaciones.
 
@@ -94,4 +99,3 @@ Step 7/15 : RUN npm run build
 ```
 
 El botón **Ocultar Logs Completos** permite regresar a la vista inicial con solo el resumen mostrado.
-

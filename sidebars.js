@@ -19,32 +19,52 @@ const sidebars = {
     'intro',
     {
       type: 'category',
-      label: 'Contenedores',
+      label: '📦 Contenedores',
       items: [
         'contenedores/campos',
         'contenedores/logs'
       ]
     },
     {
-      type: 'category', 
-      label: 'Plantillas de Contenedores',
+      type: 'category',
+      label: '📋 Plantillas de Contenedores',
       items: [
-        'plantilla/campos'
+        'plantilla/campos',
+        {
+          type: 'category',
+          label: '🚀 Proyectos',
+          items: [
+            'proyectos/postgres',
+            'proyectos/facturascripts',
+            'proyectos/n8n',
+            'proyectos/wordpress'
+          ]
+        }
       ]
     },
     {
       type: 'category',
-      label: 'Tipos de Proyectos (Frameworks)',
+      label: '⚡ Tipos de Proyectos (Frameworks)',
       items: [
         {
           type: 'doc',
           id: 'frameworks/astro',
-          label: 'Astro'
+          label: '🚀 Astro'
         },
         {
           type: 'doc', 
           id: 'frameworks/vite',
-          label: 'Vite'
+          label: '⚡ Vite'
+        },
+        {
+          type: 'doc',
+          id: 'frameworks/nextjs',
+          label: '⚡ Next.js'
+        },
+        {
+          type: 'doc',
+          id: 'frameworks/vanilla',
+          label: '🌐 Vanilla HTML'
         }
       ]
     }

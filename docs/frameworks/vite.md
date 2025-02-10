@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-title: Vite Framework
+title: ⚡ Vite Framework
 ---
 
-# Vite Framework
+# ⚡ Vite Framework
 
 Vite es una herramienta de compilación moderna que ofrece una experiencia de desarrollo extremadamente rápida.
 

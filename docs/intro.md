@@ -1,9 +1,10 @@
 ---
 sidebar_position: 1
+title: 👋 Introducción
 slug: /
 ---
 
-# ☑ Bienvenido a la Documentación
+# 👋 Introducción
 
 Esta es una guía completa sobre los diferentes frameworks y herramientas de desarrollo web moderno.
 

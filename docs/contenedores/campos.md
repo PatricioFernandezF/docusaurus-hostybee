@@ -1,4 +1,9 @@
-# 📝 Información Contenedores
+---
+sidebar_position: 1
+title: 📦 Campos de Contenedores
+---
+
+# 📦 Campos de Contenedores
 
 Un contenedor es una unidad de lanzamiento de hostybee, un contenedor nos permite convertir una aplicacion desarrollada en una URL en la nube. Dentro de los contenedores tenemos distintos campos.
 
@@ -58,4 +63,3 @@ En la interfaz del proyecto, se pueden realizar las siguientes acciones para la 
    - Accede al registro de actividades y eventos del contenedor para monitoreo o resolución de problemas.
 4. **Configuración Avanzada:**
    - Proporciona opciones avanzadas para la administración y configuración detallada del contenedor.
-
