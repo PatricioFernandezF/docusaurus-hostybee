@@ -1,0 +1,19 @@
+version: "3.9"
+services:
+  hostybee_docs:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      # Optional: Add any environment variables needed for the build or runtime here
+      # For a static site serviced by Nginx, runtime env vars are less common unless you inject them
+      NODE_ENV: production
+    ports:
+      - "${HOSTYBEE_DOCS_PORT:-3000}:80"
+    restart: unless-stopped
+    networks:
+      - coolify
+
+networks:
+  coolify:
+    external: true
