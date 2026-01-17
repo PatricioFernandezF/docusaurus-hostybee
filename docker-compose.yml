@@ -9,7 +9,7 @@ services:
       # For a static site serviced by Nginx, runtime env vars are less common unless you inject them
       NODE_ENV: production
     ports:
-      - "${HOSTYBEE_DOCS_PORT:-3000}:80"
+      - "9921:80"
     restart: unless-stopped
     networks:
       - coolify
